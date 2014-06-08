@@ -1,0 +1,33 @@
+{
+  "name": "inline-iptables",
+  "description": "An iptables cookbook built to be flexible in it's application through attributes or wrapper recipes.",
+  "long_description": "A recipe to manage iptables without impacting existing iptables rules or chains, and allowing individual inbound/outbound ports as well as port ranges to be managed with programmatic ease.",
+  "maintainer": "Alex D Glover",
+  "maintainer_email": "alex@alexdglover.com",
+  "license": "GPL 2.0",
+  "platforms": {
+    "redhat": ">= 0.0.0",
+    "centos": ">= 0.0.0",
+    "oracle": ">= 0.0.0"
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "inline-iptables": "A recipe to manage iptables without impacting existing iptables rules or chains, and allowing individual inbound/outbound ports as well as port ranges to be managed with programmatic ease."
+  },
+  "version": "0.0.2"
+}
