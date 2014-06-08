@@ -6,7 +6,7 @@
 #			iptables rules or chains, and allowing individual
 #			inbound/outbound ports as well as port ranges to be 
 #			managed with programmatic ease.
-# Dependencies:		attributes/inline-iptables.rb
+# Dependencies:		attributes/default.rb
 # Usage:		Set the ["inline-iptables"]["listen_ports"] and/or
 #			["inline-iptables"]["outbound_ports"] attributes at the
 #			node or role level
