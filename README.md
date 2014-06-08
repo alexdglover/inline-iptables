@@ -11,7 +11,7 @@ Alex D Glover (alex@alexdglover.com)
 Description
 ===========
 
-A recipe to manage iptables without impacting existing iptables rules or chains, and allowing individual inbound/outbound ports as well as port ranges to be managed with programmatic ease.
+A recipe to manage iptables without impacting existing iptables rules or chains, and allowing individual inbound/outbound ports as well as port ranges to be managed with programmatic ease. Additionally, this cookbook will insert a new set of chains without affecting any existing iptables chains or rules (hence inline-iptables).
 
 
 Dependencies
