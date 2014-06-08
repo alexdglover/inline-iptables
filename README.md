@@ -27,5 +27,5 @@ Set the ["inline-iptables"]["listen_ports"] and/or ["inline-iptables"]["outbound
 Compatibility
 =============
 
-Tested on RHEL6.4, OEL6.3 and CentOS 6.5
+Tested on RHEL6.4, OEL6.3, CentOS 5.5 and CentOS 6.5
 
